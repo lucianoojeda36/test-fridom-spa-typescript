@@ -1,27 +1,27 @@
 
 <h3 align = "left"> title </h3>
- <br/> 
+ <br/>
   <p align = "left"> test-fridom-spa </p>
- <br/> 
+ <br/>
  <h3 align = "left"> content </h3>
- <br/> 
+ <br/>
   <p align = "left">
 This challenge was created to simulate a page to write and view user comments .the same was built with Nextjs and Material UI
  </p>
- <br/> 
+ <br/>
   <h3 align = "left">Installation </h3>
- <br/> 
+ <br/>
   <p align = "left">
 To install and run this proyect just type and execute</p>
 
 <p>1-git clone https://github.com/lucianoojeda36/test-fridom-spa-typescript.git</p>
 <p>2-npm install >> ./</p>
 <p>4-npm start >> ./</p>
- 
- <br/> 
+
+ <br/>
     <h3 align = "left">
 Initialize with Docker </h3>
- <br/> 
+ <br/>
 
  To guarantee the correct funcionality of the project run it with docker commands to simulate the correct envarioment where the same was built</p>
  <p>Steps:</p>
@@ -32,17 +32,16 @@ Initialize with Docker </h3>
 <br/>
    <h3 align = "left">
 Preview </h3>
- <br/> 
-<img align = "center" src=".public/assets/img/screen01.jpg" alt = "inst"  />
-
- <br/> 
+ <br/>
+<img align = "center" src="public/assets/img/screen01.jpg" alt = "inst"  />
+ <br/>
     <h3 align = "left">
 Deploy </h3>
- <br/> 
+ <br/>
  <p>https://test-fridom-spa.vercel.app/</p>
- <br/> 
+ <br/>
    <h3 align = "left">Instructions</h3>
- <br/> 
+ <br/>
   <p align = "left">
 Objetivo
 Construir un muro de comentarios usando Next.js y algún framework de despliegue a
@@ -59,6 +58,3 @@ La aplicación debe listar los comentarios ya enviados en orden cronológico inv
 mostrando: el nombre del autor, la fecha/hora del comentario y el texto del mismo.
 
  </p>
-
-
- 
