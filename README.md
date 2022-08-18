@@ -33,7 +33,7 @@ Initialize with Docker </h3>
    <h3 align = "left">
 Preview </h3>
  <br/>
-<img align = "center" src="public/assets/img/screen01.jpg" alt = "inst"  />
+<img align = "center" src="/assets/img/screen01.jpg" alt = "inst"  />
  <br/>
     <h3 align = "left">
 Deploy </h3>
