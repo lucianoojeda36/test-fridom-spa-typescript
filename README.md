@@ -1,34 +1,64 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<h3 align = "left"> title </h3>
+ <br/> 
+  <p align = "left"> test-fridom-spa </p>
+ <br/> 
+ <h3 align = "left"> content </h3>
+ <br/> 
+  <p align = "left">
+This challenge was created to simulate a page to write and view user comments .the same was built with Nextjs and Material UI
+ </p>
+ <br/> 
+  <h3 align = "left">Installation </h3>
+ <br/> 
+  <p align = "left">
+To install and run this proyect just type and execute</p>
 
-First, run the development server:
+<p>1-git clone https://github.com/lucianoojeda36/test-fridom-spa-typescript.git</p>
+<p>2-npm install >> ./</p>
+<p>4-npm start >> ./</p>
+ 
+ <br/> 
+    <h3 align = "left">
+Initialize with Docker </h3>
+ <br/> 
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+ To simulate the correct funcionality of the project run it with docker commands to simulate the correct envarioment where the same was built</p>
+ <p>Steps:</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<p>1-git clone https://github.com/lucianoojeda36/test-fridom-spa-typescript.git</p>
+<p>2-docker-compose build >> ./</p>
+<p>4-docker-compose up >> ./</p>
+<br/>
+   <h3 align = "left">
+Preview </h3>
+ <br/> 
+<img align = "center" src=".public/assets/img/screen01.jpg" alt = "inst"  />
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+ <br/> 
+    <h3 align = "left">
+Deploy </h3>
+ <br/> 
+ <p>https://test-fridom-spa.vercel.app/</p>
+ <br/> 
+   <h3 align = "left">Instructions</h3>
+ <br/> 
+  <p align = "left">
+Objetivo
+Construir un muro de comentarios usando Next.js y algún framework de despliegue a
+elección (React MUI, TailwindCSS, etc) o CSS propio.
+Alcances
+● La aplicación puede estar contenida en una única page.
+● No se exige persistencia de los datos, solamente el manejo de estados. En caso de
+recargar la página, los comentarios serán destruidos.
+Interfaz
+La aplicación debe tener un campo input de texto para ingresar el nombre del autor y un
+textarea para el cuerpo del comentario. También debe tener el botón “Enviar” para
+agregar el comentario a los existentes.
+La aplicación debe listar los comentarios ya enviados en orden cronológico inverso
+mostrando: el nombre del autor, la fecha/hora del comentario y el texto del mismo.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+ </p>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+ 
