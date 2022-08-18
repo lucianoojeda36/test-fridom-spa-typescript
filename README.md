@@ -23,7 +23,7 @@ To install and run this proyect just type and execute</p>
 Initialize with Docker </h3>
  <br/> 
 
- To simulate the correct funcionality of the project run it with docker commands to simulate the correct envarioment where the same was built</p>
+ To guarantee the correct funcionality of the project run it with docker commands to simulate the correct envarioment where the same was built</p>
  <p>Steps:</p>
 
 <p>1-git clone https://github.com/lucianoojeda36/test-fridom-spa-typescript.git</p>
