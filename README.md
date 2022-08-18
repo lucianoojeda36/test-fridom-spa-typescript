@@ -23,6 +23,7 @@ To install and run this project just type and execute</p>
 Initialize with Docker </h3>
  <br/>
 
+<p>
  To guarantee the correct functionality of the project run it with docker commands to simulate the correct environment where the same was built</p>
  <p>Steps:</p>
 
